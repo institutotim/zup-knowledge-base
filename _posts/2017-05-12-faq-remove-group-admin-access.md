@@ -1,9 +1,9 @@
 ---
 date: 2017-05-12
-title: Campos disponíveis para cadastrar usuários
+title: Desejo remover o acesso de um grupo ao painel administrativo
 categories:
   -  Perguntas mais frequentes (FAQ)
-description: "Campos disponíveis para cadastrar usuários"
+description: "Desejo remover o acesso de um grupo ao painel administrativo"
 type: Document
 ---
 
@@ -16,5 +16,8 @@ Siga os passos abaixo:
   3. Ao entrar na página do grupo, clique no botão **Gerenciar permissões** localizado no lado direito superior;
   4. Na lista de permissões concedidas, remova a permissão **Permitir acesso ao painel** conforme imagem abaixo:
 
+![removendo-permissao](/images/zup-removendo-permissao.jpg)
 
 Se você deseja adicionar novamente o acesso, basta retornar a tela de permissões do Grupo e adicionar conforme imagem abaixo:
+
+![adicionando-permissao](/images/zup-adicionar-permissao.jpg)

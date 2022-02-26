@@ -59,7 +59,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.3)
   jekyll-archives (= 2.1.1)
-  jekyll-extract-element (= 0.0.6)
+  jekyll-extract-element (= 0.0.7)
   jekyll-feed (= 0.9.1)
   jekyll-seo-tag (= 2.1.0)
   jekyll-sitemap (= 1.0.0)
